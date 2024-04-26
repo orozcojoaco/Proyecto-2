@@ -7,7 +7,7 @@
         <meta name="author" content="" />
         <title>Dimension Master - Disaster</title>
         <!-- Favicon-->
-        <link rel="icon" type="image/x-icon" href="img/diseño_personaje.png" />
+        <link rel="icon" type="image/x-icon" href="img/logo.png" />
         <!-- Bootstrap icons-->
         <link href="" rel="stylesheet" />
         <!-- Core theme CSS (includes Bootstrap)-->
@@ -49,17 +49,17 @@
             <div class="container px-5 my-5">
                 <div class="row gx-5">
                     <div class="col-lg-4 mb-5 mb-lg-0">
-                        <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-collection"></i></div>
-                        <h2 class="h4 fw-bolder">Historia</h2>
+                        <img src="img\logo.png" alt="">
+                        <h2 class="h4 fw-bolder" >Historia</h2>
                         <p>Un reconocido arqueleogo en busca de una leyenda que paso de generacion en generacion entre su familia termina descubriendo que tal leyenda era una realidad, teniendo que surcar por dimensiones nunca antes vistas por el ser humano en busca de las gemas que lo habian llevado a tal investigacion</p>
                     </div>
                     <div class="col-lg-4 mb-5 mb-lg-0">
-                        <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-building"></i></div>
+                        <img src="img\logo.png" alt="">
                         <h2 class="h4 fw-bolder">Estilo de juego</h2>
                         <p>Es un juego realizado en 2D de genero Plataformas al mejor estilo de los clasicos que ya conocemos, Megaman, Mario bros, Celeste, etc</p>
                     </div>
                     <div class="col-lg-4">
-                        <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-toggles2"></i></div>
+                        <img src="img\logo.png" alt="">
                         <h2 class="h4 fw-bolder">Objetos</h2>
                         <p>Se podran encontrar objetos de todo tipo, desde pociones que pueden regenerar vida del personaje principal, pasando por monedas para poder recolectar e incluso el personaje principal de esta historia poseera una cuchilla con la cual enfrentar a todos los mounstros que le tocara enfrentar en esta aventura</p>
                     </div>
