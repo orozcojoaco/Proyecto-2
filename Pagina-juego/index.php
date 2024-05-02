@@ -22,7 +22,7 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                         <li class="nav-item"><a class="nav-link active" aria-current="page" href="#!">Principal</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#!">Disaster Company</a></li>
+                        <li class="nav-item"><a class="nav-link" href="../Pagina-empresa/index.php">Disaster Company</a></li>
                         <li class="nav-item"><a class="nav-link" href="#!">Redes Sociales</a></li>
                     </ul>
                 </div>

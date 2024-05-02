@@ -19,25 +19,37 @@
             <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
                 <div class="container px-5">
                     <a class="navbar-brand">Bienvenidos</a>
-                   
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                        
+                        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                            <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+                            <li class="nav-item"><a class="nav-link" href="#nosotros">Nosotros</a></li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" id="navbarDropdownBlog" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Cuenta</a>
+                                <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdownBlog">
+                                    <li><a class="dropdown-item" href="blog-home.html">Inicia Sesion</a></li>
+                                    <li><a class="dropdown-item" href="blog-post.html">Registrate</a></li>
+                                </ul>
+                            </li> 
                     </div>
                 </div>
             </nav>
             <!-- Header-->
-            <header class="py-5">
+            <header class="bg-dark py-5">
                 <div class="container px-5">
-                    <div class="row justify-content-center">
-                        <div class="col-lg-8 col-xxl-6">
-                            <div class="text-center my-5">
-                                <h1 class="fw-bolder mb-3">DISASTER COMPANY</h1>
-                                <p class="lead fw-normal text-muted mb-4"> Esta compania está enfocada en la creación y en el desarrollo de videojuegos 2D. Nuestro objetivo siempre es otorgarle confiabilidad  y entretenimiento a nuestros usuarios. </p>
-                                
+                    <div class="row gx-5 align-items-center justify-content-center">
+                        <div class="col-lg-8 col-xl-7 col-xxl-6">
+                            <div class="my-5 text-center text-xl-start">
+                                <h1 class="display-5 fw-bolder text-white mb-2">DISASTER COMPANY</h1>
+                                <p class="lead fw-normal text-white-50 mb-4">Esta compania está enfocada en la creación y en el desarrollo de videojuegos 2D. Nuestro objetivo siempre es otorgarle confiabilidad  y entretenimiento a nuestros usuarios. </p>
+                                <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
+                                    <a class="btn btn-primary btn-lg px-4 me-sm-3" href="../Pagina-juego/index.php">Nuestro juego</a>
+                                </div>
                             </div>
                         </div>
+                        <div class="col-xl-5 col-xxl-6 d-none d-xl-block text-center"><img class="img-fluid rounded-3 my-5" src="assets/Captura.PNG" alt="..." /></div>
                     </div>
                 </div>
+             
             </header>
             <!-- About section one-->
             <section class="py-5 bg-light" id="scroll-target">
@@ -51,7 +63,7 @@
                 </div>
             </section>
             <!-- Team members section-->
-            <section class="py-5 bg-light">
+            <section class="py-5 bg-light" id="nosotros">
                 <div class="container px-5 my-5">
                     <div class="text-center">
                         <h2 class="fw-bolder">NUESTRO EQUIPO DE TRABAJO</h2>
