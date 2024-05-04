@@ -29,12 +29,12 @@
             </div>
         </nav>
         <!-- Header-->
-        <header class="bg-dark py-5">
+        <header class="masthead" style="background-image: url('img/fondo.png'); background-repeat: no-repeat; background-size: 100% 100%;"  >
             <div class="container px-5">
                 <div class="row gx-5 justify-content-center">
                     <div class="col-lg-6">
                         <div class="text-center my-5">
-                            <h1 class="display-5 fw-bolder text-white mb-2">Juego de plataformas al mejor estilo 2D</h1>
+                        <h1 class="display-5 fw-bolder text-white mb-2">Juego de plataformas al mejor estilo 2D</h1>
                             <p class="lead text-white-50 mb-4">Con una historia ingeniosa, diseños espectaculares y niveles que haran tu experiencia mas que disfrutable!</p>
                             <div class="d-grid gap-3 d-sm-flex justify-content-sm-center">
                                 <a class="btn btn-primary btn-lg px-4 me-sm-3" href="#features">Descargar</a>
@@ -54,12 +54,12 @@
                         <p>Un reconocido arqueleogo en busca de una leyenda que paso de generacion en generacion entre su familia termina descubriendo que tal leyenda era una realidad, teniendo que surcar por dimensiones nunca antes vistas por el ser humano en busca de las gemas que lo habian llevado a tal investigacion</p>
                     </div>
                     <div class="col-lg-4 mb-5 mb-lg-0">
-                        <img src="img\gema_amarillo.jpg" alt="">
+                        <img src="img/plataforma.png" alt="" style = "height: 200px; width: 300px;">
                         <h2 class="h4 fw-bolder">Estilo de juego</h2>
                         <p>Es un juego realizado en 2D de genero Plataformas al mejor estilo de los clasicos que ya conocemos, Megaman, Mario bros, Celeste, etc</p>
                     </div>
                     <div class="col-lg-4">
-                        <img src="img\gema_rosa.jpg" alt="">
+                        <img src="img/objetos.jfif" alt="" style = "height: 200px; width: 300px;">
                         <h2 class="h4 fw-bolder">Objetos</h2>
                         <p>Se podran encontrar objetos de todo tipo, desde pociones que pueden regenerar vida del personaje principal, pasando por monedas para poder recolectar e incluso el personaje principal de esta historia poseera una cuchilla con la cual enfrentar a todos los mounstros que le tocara enfrentar en esta aventura</p>
                     </div>
