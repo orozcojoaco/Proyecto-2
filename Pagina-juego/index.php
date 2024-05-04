@@ -23,7 +23,7 @@
                     <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                         <li class="nav-item"><a class="nav-link active" aria-current="page" href="#!">Principal</a></li>
                         <li class="nav-item"><a class="nav-link" href="../Pagina-empresa/index.php">Disaster Company</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#!">Redes Sociales</a></li>
+                        <li class="nav-item"><a class="nav-link" href="https://www.instagram.com/invites/contact/?i=pzg12qfiu3u3&utm_content=t1k6h27">Redes Sociales</a></li>
                     </ul>
                 </div>
             </div>
@@ -48,18 +48,19 @@
         <section class="py-5 border-bottom" id="features">
             <div class="container px-5 my-5">
                 <div class="row gx-5">
-                    <div class="col-lg-4 mb-5 mb-lg-0">
-                        <img src="img\gema_violeta.jpg" alt="">
+            
+                <div class="col-lg-4 mb-5 mb-lg-0">
+                        <img src="img/personaje.jfif" alt="" style = "height: 200px; width: 250px;">
                         <h2 class="h4 fw-bolder" >Historia</h2>
                         <p>Un reconocido arqueleogo en busca de una leyenda que paso de generacion en generacion entre su familia termina descubriendo que tal leyenda era una realidad, teniendo que surcar por dimensiones nunca antes vistas por el ser humano en busca de las gemas que lo habian llevado a tal investigacion</p>
                     </div>
                     <div class="col-lg-4 mb-5 mb-lg-0">
-                        <img src="img/plataforma.png" alt="" style = "height: 200px; width: 300px;">
+                        <img src="img/plataforma.png" alt="" style = "height: 200px; width: 250px;">
                         <h2 class="h4 fw-bolder">Estilo de juego</h2>
                         <p>Es un juego realizado en 2D de genero Plataformas al mejor estilo de los clasicos que ya conocemos, Megaman, Mario bros, Celeste, etc</p>
                     </div>
                     <div class="col-lg-4">
-                        <img src="img/objetos.jfif" alt="" style = "height: 200px; width: 300px;">
+                        <img src="img/objetos.jfif" alt="" style = "height: 200px; width: 250px;">
                         <h2 class="h4 fw-bolder">Objetos</h2>
                         <p>Se podran encontrar objetos de todo tipo, desde pociones que pueden regenerar vida del personaje principal, pasando por monedas para poder recolectar e incluso el personaje principal de esta historia poseera una cuchilla con la cual enfrentar a todos los mounstros que le tocara enfrentar en esta aventura</p>
                     </div>
