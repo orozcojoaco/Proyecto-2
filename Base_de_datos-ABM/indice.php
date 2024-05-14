@@ -2,6 +2,8 @@
 
 require_once "./config/app.php";
 require_once "./autoload.php";
+require_once "./app/views/inc/session_start.php";
+
 
     if(isset($_GET['views'])){
 
@@ -23,6 +25,7 @@ require_once "./autoload.php";
 </head>
 <body>
     
-<?php require_once "./app/views/inc/script.php"; ?>
+    <?php require_once "./app/views/inc/script.php"; ?>
+
 </body>
 </html>
