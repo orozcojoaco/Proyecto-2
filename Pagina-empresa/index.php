@@ -26,8 +26,8 @@
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" id="navbarDropdownBlog" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Cuenta</a>
                                 <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdownBlog">
-                                    <li><a class="dropdown-item" href="blog-home.html">Inicia Sesion</a></li>
-                                    <li><a class="dropdown-item" href="blog-post.html">Registrate</a></li>
+                                    <li><a class="dropdown-item" href="../Login/login_register/index.php">Inicia Sesion</a></li>
+                                
                                 </ul>
                             </li> 
                     </div>
