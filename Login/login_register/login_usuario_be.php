@@ -11,7 +11,7 @@ $validar_login = mysqli_query($conexion, "SELECT * FROM usuarios WHERE correo = 
 
 if (mysqli_num_rows($validar_login) > 0) {
     $_SESSION = mysqli_fetch_assoc($validar_login);
-    header("location: ../../Pagina-empresa/index.php");
+    header("location: ../../Pagina-empresa/indexlog.php");
     exit();
 } else {
     echo '
