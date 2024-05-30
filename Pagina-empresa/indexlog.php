@@ -36,7 +36,7 @@ if (isset($_SESSION['usuario'])) {
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" id="navbarDropdownBlog" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Cuenta</a>
                                 <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdownBlog">
-                                    <li><?php echo $usuario; ?></li>
+                                    <li>   <?php echo $usuario; ?></li>
                                     <li><a href="index.php">Cerrar sesión</a></li>
                                 
                                 </ul>
