@@ -17,7 +17,7 @@ if (isset($_SESSION['usuario'])) {
         <meta name="author" content="" />
         <title>DISASTER COMPANY</title>
         <!-- Favicon-->
-        <link rel="icon" type="image/x-icon" href="assets/Captura.PNG" />
+        <link rel="icon" type="image/x-icon" href="assets/logogod.png" />
         <!-- Bootstrap icons-->
         <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
         <!-- Core theme CSS (includes Bootstrap)-->
@@ -45,7 +45,7 @@ if (isset($_SESSION['usuario'])) {
                 </div>
             </nav>
             <!-- Header-->
-            <header class="custom" style="background-color: #0000FF	">
+            <header class="custom" style="background-color: #2F435F	">
                 <div class="container px-5">
                     <div class="row gx-5 align-items-center justify-content-center">
                         <div class="col-lg-8 col-xl-7 col-xxl-6">
@@ -57,7 +57,7 @@ if (isset($_SESSION['usuario'])) {
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-5 col-xxl-6 d-none d-xl-block text-center"><img class="img-fluid rounded-3 my-5" src="assets/Captura.PNG" alt="..." /></div>
+                        <div class="col-xl-5 col-xxl-6 d-none d-xl-block text-center"><img class="img-fluid rounded-3 my-5" src="assets/logoblanco.png" alt="..." /></div>
                     </div>
                 </div>
              
@@ -83,28 +83,28 @@ if (isset($_SESSION['usuario'])) {
                     <div class="row gx-5 row-cols-1 row-cols-sm-2 row-cols-xl-4 justify-content-center">
                         <div class="col mb-5 mb-5 mb-xl-0">
                             <div class="text-center">
-                                <img class="img-fluid rounded-circle mb-4 px-4" src="https://dummyimage.com/150x150/ced4da/6c757d" alt="..." />
+                                <img class="img-fluid rounded-circle mb-4 px-4" src="assets/joaco2.jpg" alt="..." />
                                 <h5 class="fw-bolder">Joaquin Orozco</h5>
                                 <div class="fst-italic text-muted"> Project Manager </div>
                             </div>
                         </div>
                         <div class="col mb-5 mb-5 mb-xl-0">
                             <div class="text-center">
-                                <img class="img-fluid rounded-circle mb-4 px-4" src="https://dummyimage.com/150x150/ced4da/6c757d" alt="..." />
+                                <img class="img-fluid rounded-circle mb-4 px-4" src="assets/lautaro.jpg" alt="..." />
                                 <h5 class="fw-bolder">Lautaro Maidana</h5>
                                 <div class="fst-italic text-muted">Analista de Sistemas</div>
                             </div>
                         </div>
                         <div class="col mb-5 mb-5 mb-sm-0">
                             <div class="text-center">
-                                <img class="img-fluid rounded-circle mb-4 px-4" src="https://dummyimage.com/150x150/ced4da/6c757d" alt="..." />
+                                <img class="img-fluid rounded-circle mb-4 px-4" src="assets/agu2.jpg" alt="..." />
                                 <h5 class="fw-bolder">Agustin Camata</h5>
                                 <div class="fst-italic text-muted">Diseñador</div>
                             </div>
                         </div>
                         <div class="col mb-5">
                             <div class="text-center">
-                                <img class="img-fluid rounded-circle mb-4 px-4" src="https://dummyimage.com/150x150/ced4da/6c757d" alt="..." />
+                                <img class="img-fluid rounded-circle mb-4 px-4" src="assets/jatniel.jpg" alt="..." />
                                 <h5 class="fw-bolder">Jatniel Requena</h5>
                                 <div class="fst-italic text-muted">Administrador de Base de Datos</div>
                             </div>
