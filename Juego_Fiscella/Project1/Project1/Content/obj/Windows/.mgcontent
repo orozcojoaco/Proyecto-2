@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/A-27/Documents/Proyecto-2/Juego_Fiscella/Project1/Project1/Content/cars_der.png</File>
+    <File>C:/Users/A-27/Documents/Proyecto-2/Juego_Fiscella/Project1/Project1/Content/cars_izq.png</File>
+    <File>C:/Users/A-27/Documents/Proyecto-2/Juego_Fiscella/Project1/Project1/Content/cars_normal.png</File>
+    <File>C:/Users/A-27/Documents/Proyecto-2/Juego_Fiscella/Project1/Project1/Content/enemigo1.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

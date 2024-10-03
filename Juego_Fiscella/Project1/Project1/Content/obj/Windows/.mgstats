@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/A-27/Documents/Proyecto-2/Juego_Fiscella/Project1/Project1/Content/cars_der.png","C:/Users/A-27/Documents/Proyecto-2/Juego_Fiscella/Project1/Project1/Content/bin/Windows/cars_der.xnb","TextureProcessor","Texture2DContent",1715,5485,0,104209
+"C:/Users/A-27/Documents/Proyecto-2/Juego_Fiscella/Project1/Project1/Content/cars_izq.png","C:/Users/A-27/Documents/Proyecto-2/Juego_Fiscella/Project1/Project1/Content/bin/Windows/cars_izq.xnb","TextureProcessor","Texture2DContent",1996,5593,0,0013457
+"C:/Users/A-27/Documents/Proyecto-2/Juego_Fiscella/Project1/Project1/Content/cars_normal.png","C:/Users/A-27/Documents/Proyecto-2/Juego_Fiscella/Project1/Project1/Content/bin/Windows/cars_normal.xnb","TextureProcessor","Texture2DContent",1006,6445,0,0013347
+"C:/Users/A-27/Documents/Proyecto-2/Juego_Fiscella/Project1/Project1/Content/enemigo1.png","C:/Users/A-27/Documents/Proyecto-2/Juego_Fiscella/Project1/Project1/Content/bin/Windows/enemigo1.xnb","TextureProcessor","Texture2DContent",6647,28085,0,0033235
