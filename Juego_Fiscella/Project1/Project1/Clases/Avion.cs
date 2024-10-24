@@ -26,7 +26,7 @@ namespace Project1.Clases
             var random = new Random();
 
             this._posicion.X = random.Next(100, 500); ;
-            this._posicion.Y = -10;
+            this._posicion.Y = -1 * random.Next(10, 50)) ;
 
             this.X = (int)this._posicion.X;
             this.Y = (int)this._posicion.Y;
